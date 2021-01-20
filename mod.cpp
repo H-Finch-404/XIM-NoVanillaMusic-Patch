@@ -1,0 +1,12 @@
+name = "XIM - No Vanilla Music Patch";
+picture = "";
+actionName = "Steam";
+action = "";
+description = "A patch that prevents vanilla music from playing in XIM's music system";
+logo = "";
+logoOver = "";
+tooltip = "XIM - No Vanilla Music Patch";
+tooltipOwned = "";
+overview = "A patch that prevents vanilla music from playing in XIM's music system";
+author = "Weedse (H.Finch)";
+overviewPicture = "";
